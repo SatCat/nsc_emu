@@ -1,3 +1,4 @@
 // root ver
-'use strict';
-require('./lib/server/server');
+// 'use strict';
+console.log("Main server.js start!");
+require('lib/server/server');
