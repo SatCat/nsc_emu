@@ -1,4 +1,6 @@
 {
+"version": 2,
+"name": "nsc-emu",    
 "builds": [
     { "src": "/lib/server/server.js", "use": "@vercel/node" }
     ],
