@@ -1,0 +1,14 @@
+{
+    "name": "nightscout_emu",
+    "version": "0.14.2",
+    "description": "Nightscout emu",
+    "license": "AGPL-3.0",    
+    "author": "SatCat",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nightscout/cgm-remote-monitor.git"
+    },
+    "scripts": {
+        "start": "node lib/server/server.js"
+    }
+}
