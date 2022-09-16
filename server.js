@@ -1,4 +1,4 @@
 // root ver
 'use strict';
-console.log("Main server.js start!");
+console.log("SERVER.JS start! __dirname=" + __dirname);
 require('./lib/server/server');
