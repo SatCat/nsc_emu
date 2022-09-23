@@ -1,2 +1,2 @@
 # nsc_emu
-Vercel.com node simple app deployment tests 
+Node.js simple app deployment hosting tests app
